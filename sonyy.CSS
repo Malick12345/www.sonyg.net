@@ -1,0 +1,198 @@
+style
+
+
+
+/*header*/
+.head {
+    color:rgb(27, 27, 167);
+    line-height:1.5rem;
+    font-size:36px;
+
+}
+.top-container{
+    color:rgb(12, 12, 114);
+}
+h2 {
+    text-align:center;
+    color:#66BFBF;
+    font-size:36px;
+    font-family:sans serif;
+    margin:4px;
+    padding:12px;
+
+}
+
+
+.explain {
+    text-align:center;
+    font-size:20px;
+    line-height:1.5rem;
+    font-family:segoe UI;
+}
+
+h3 {
+    color:#66BFBF;
+    font-size:38px;
+    line-height:1.5rem;
+    text-align:center;
+}
+
+.core {
+    text-align:center;
+    font-size:20px;
+    line-height:1.5rem;
+}
+
+h3 {
+    color:#66BFBF;
+    font-size:30px;
+    line-height:1.5rem;
+    padding:4px;
+    margin:12px;
+}
+.athias {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.first {
+    font-size:18px;
+    line-height:1.5rem;
+    text-align:center;
+}
+
+.console {
+    position:relative;
+    margin-right:1112px;
+    padding:20px;
+}
+
+/*footer*/
+
+.rights {
+    text-align:center;
+    color:whitesmoke;
+
+}
+
+/*nav*/
+Ul li {
+    display:inline-block;
+    line-height:1.5rem;
+    padding:4px;
+    text-align:center;
+
+
+}
+
+Ul li a {
+
+    
+    margin:0 28px;
+    line-height:1.5rem;
+    font-size:15px;
+    text-decoration:none;
+    color:white;
+
+
+}
+
+.navb {
+    text-align:center;
+    font-size:18px;
+    text-decoration:none;
+    color:blue;
+    margin:0 24px;
+    background-color:rgb(31, 31, 134);
+    padding-bottom:2px;
+}
+
+
+.ET {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.top-content {
+    text-align:center;
+    background-color:rgb(26, 26, 110);
+    padding-top:7%;
+    color:white;
+    font-size:18px;
+}
+
+.upcoming {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.pin {
+    text-align:center;
+    font-size:22px;
+    font-family:sans-serif;
+    color:rgb(51, 47, 47);
+}
+.finalf {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.hero {
+    font-family:sans serif;
+    font-size:26px;
+    line-height:1.5;
+    text-align:center;
+    color:rgb(43, 39, 39);
+
+}
+
+#features {
+    text-align:center;
+    padding:7% 6%;
+}
+
+
+
+.hpp {
+    float:right;
+}
+
+
+
+
+.row {
+    text-align:center;
+    
+    color:rgb(151, 144, 144);
+
+    
+    
+
+}
+
+.logo5 {
+    float:left;
+    
+}
+
+.station {
+    float:left;
+    margin:4px 4px;
+}
+
+.bottom {
+    color:black;
+    padding:7% 6%;
+    font-size:15px;
+
+}
+
+.se {
+    color:whitesmoke;
+    text-decoration:dotted;
+}
